@@ -1,4 +1,4 @@
-![Repository Banner](https://github.com/Constellinux/.github/blob/main/Logos/Repo-Banner.png?raw=true)
+![Default Wallpaper](https://github.com/Constellinux/.github/blob/main/Wallpapers/CRL-Pixelart.jpg)
 # The Constellinux Project
 Constellinux is a Web-Based Operating System, ran using the CRL Programming Language.
 
