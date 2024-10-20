@@ -1,1 +1,0 @@
-Yes, I know that the canyon wallpaper isn't a pixelart, but I needed to update the default wallpaper!
