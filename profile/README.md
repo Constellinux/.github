@@ -1,11 +1,8 @@
-![Default Wallpaper](https://github.com/Constellinux/.github/blob/main/Wallpapers/CRL-Pixelart.jpg)
+![Default Wallpaper](https://raw.githubusercontent.com/Constellinux/.github/main/Wallpapers/default.jpg)
 # The Constellinux Project
-Constellinux is a Web-Based Operating System, ran using the CRL Programming Language.
+Constellinux is a Web-Based Operating System, ran using the [CRL Programming Language](https://github.com/Constellinux/Constello/wiki/CRL-%28Constellinux-Runner-Language%29).
 
 > [!IMPORTANT]
-> Constello Container and Constellinux are still in active development.
->
+> The Oskee Network is still in active development.
+> CRL, Constello and Constellinux are in beta, and can be found [here](https://constellinux.github.io)
 
-It Implements the [Rotur Standard For OS Communication](https://github.com/roturTW), and also supports [originOS](https://github.com/Mistium/origin-OS)'s ICN and OJFF formats for better continuity.
-
-Constellinux is currently in development, and has no planned release date yet.
